@@ -15,7 +15,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos meus principais projetos, co
 
 ---
 
-## **[Projeto Integrador - Teste](https://github.com/Matheusbzrr/pi-teste)**  
+## **[Projeto Integrador](https://github.com/Matheusbzrr/pi-teste)**  
 - **Descrição:** Protótipo de um sistema desenvolvido como parte de um projeto integrador.  
 - **Tecnologias:** 
   - `TypeScript`: Para escrita de código fortemente tipado.
